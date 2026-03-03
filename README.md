@@ -3584,7 +3584,5 @@ Index
 * **Ctrl+F / ⌘F is usually sufficient.**
 * **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
 * **Click on the title's `'🔗'` to get a link to its section.**
-#   C o m m e n t   f r o m   b r a n c h 2   c o m m i t   1  
- #   C o m m e n t   f r o m   b r a n c h 2   c o m m i t   2  
- #   C o m m e n t   f r o m   b r a n c h 2   c o m m i t   3  
- 
+# Merged comment from both branches
+ 
